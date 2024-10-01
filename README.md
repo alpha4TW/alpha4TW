@@ -7,7 +7,7 @@
 - ⚡ Fun fact: coding
 - what do you think: coding
 
-[![a4TW's GitHub stats](https://github-readme-stats.vercel.app/api?username=alpha4TW)](https://github.com/anuraghazra/github-readme-stats)
+![a4TW's GitHub stats](https://github-readme-stats.vercel.app/api?username=alpha4TW&show_icons=true&theme=radical)
 
 <!---
 alpha4TW/alpha4TW is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
